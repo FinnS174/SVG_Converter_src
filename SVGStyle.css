@@ -1,0 +1,71 @@
+/* IHO S-100 Color Palette Stylesheet */
+
+/* Default / black fill */
+.f0 {
+    fill: #000000;
+}
+
+/* Fill classes */
+.fDIAMD { fill: #768C97; }
+.fUNHQD { fill: #CC9F80; }
+.fNODTA { fill: #93AEBB; }
+.fCURSR { fill: #E38039; }
+.fCHBLK { fill: #000000; }
+.fCHGRD { fill: #4C5B63; }
+.fCHRED { fill: #EA5471; }
+.fCHGRN { fill: #52E83B; }
+.fCHYLW { fill: #E1E139; }
+.fCHMGD { fill: #C045D1; }
+.fCHMGF { fill: #CBA9F9; }
+.fCHBRN { fill: #A19653; }
+.fCHWHT { fill: #C9EDFF; }
+.fLANDA { fill: #BFBE8F; }
+.fLANDF { fill: #8D642E; }
+.fDEPMD { fill: #A7D9FB; }
+.fDEPMS { fill: #82CAFF; }
+.fDEPVS { fill: #61B7FF; }
+.fDEPIT { fill: #58AF9C; }
+.fRADLO { fill: #2F8E20; }
+.fARPAT { fill: #2DA879; }
+.fRESBL { fill: #2E7BFF; }
+.fADINF { fill: #A5A527; }
+.fPLRTE { fill: #D63F24; }
+.fBKAJ1 { fill: #0E1315; }
+.fBKAJ2 { fill: #1C2327; }
+.fMARBL { fill: #0080FF; }
+.fMARCY { fill: #008F84; }
+.fMARMG { fill: #C64DA6; }
+.fMARWH { fill: #717F77; }
+
+
+/* Stroke classes */
+.sDIAMD { stroke: #768C97; }
+.sUNHQD { stroke: #CC9F80; }
+.sNODTA { stroke: #93AEBB; }
+.sCURSR { stroke: #E38039; }
+.sCHBLK { stroke: #000000; }
+.sCHGRD { stroke: #4C5B63; }
+.sCHRED { stroke: #EA5471; }
+.sCHGRN { stroke: #52E83B; }
+.sCHYLW { stroke: #E1E139; }
+.sCHMGD { stroke: #C045D1; }
+.sCHMGF { stroke: #CBA9F9; }
+.sCHBRN { stroke: #A19653; }
+.sCHWHT { stroke: #C9EDFF; }
+.sLANDA { stroke: #BFBE8F; }
+.sLANDF { stroke: #8D642E; }
+.sDEPMD { stroke: #A7D9FB; }
+.sDEPMS { stroke: #82CAFF; }
+.sDEPVS { stroke: #61B7FF; }
+.sDEPIT { stroke: #58AF9C; }
+.sRADLO { stroke: #2F8E20; }
+.sARPAT { stroke: #2DA879; }
+.sRESBL { stroke: #2E7BFF; }
+.sADINF { stroke: #A5A527; }
+.sPLRTE { stroke: #D63F24; }
+.sBKAJ1 { stroke: #0E1315; }
+.sBKAJ2 { stroke: #1C2327; }
+.sMARBL { stroke: #0080FF; }
+.sMARCY { stroke: #008F84; }
+.sMARMG { stroke: #C64DA6; }
+.sMARWH { stroke: #717F77; }
